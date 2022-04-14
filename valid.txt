@@ -1,0 +1,13 @@
+dataset/valid/14898532020_ba6199dd22_k.jpg
+dataset/valid/16335852991_f55de7958d_k.jpg
+dataset/valid/24631331976_defa3bb61f_k.jpg
+dataset/valid/2917282960_06beee649a_b.jpg
+dataset/valid/3800636873_ace2c2795f_b.jpg
+dataset/valid/3825919971_93fb1ec581_b.jpg
+dataset/valid/410488422_5f8991f26e_b.jpg
+dataset/valid/4581425993_72b9b15fc0_b.jpg
+dataset/valid/4838031651_3e7b5ea5c7_b.jpg
+dataset/valid/5555705118_3390d70abe_b.jpg
+dataset/valid/5603212091_2dfe16ea72_b.jpg
+dataset/valid/6810773040_3d81036d05_k.jpg
+dataset/valid/8053085540_a72bd21a64_k.jpg
